@@ -17,6 +17,7 @@ img{
   width: 100%;
 	padding:  1px;
 	border-top: solid;
+	border-width: thin;
 }
 
 h1 {

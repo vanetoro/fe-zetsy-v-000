@@ -76,4 +76,5 @@ div:hover{
 #img_top_border{
 	padding-top:  8px;
 	border-top: 4px solid black;
+	border-width: thin;
 }

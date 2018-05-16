@@ -15,9 +15,9 @@ body {
 }
 img{
   width: 100%;
-
-	border-top: solid;
-	border-width: thin;
+	border-style: solid;
+	border-color:#98ACA5;
+	border-width: 4px;
 }
 
 h1 {

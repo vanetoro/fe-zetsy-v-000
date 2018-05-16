@@ -29,7 +29,11 @@ footer {
   width: 23%;
   float: left;
   border-style: solid;
-  border: 1px;
+  /*border: 1px;*/
   background: #eee;
   margin: 2%;
+}
+
+.first{
+  margin-left: 0px;
 }

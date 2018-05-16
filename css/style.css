@@ -53,6 +53,7 @@ footer {
 }
 
 .col-1 a:hover{
+	border-style: solid;
 	border-color: rgb(111,127,150);
 }
 .first{

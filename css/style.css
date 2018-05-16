@@ -47,13 +47,13 @@ footer {
   width: 24%;
   float: left;
   border-style: solid;
-  border-color: rgb(111,127,122);
+  border-color: #C8C8C8;
   margin: .5%;
 	box-sizing: border-box;
 }
 
 div:hover{
-	border-color: rgb(200,127,150);
+	border-color: 	#808080;
 }
 
 .first{

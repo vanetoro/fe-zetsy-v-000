@@ -52,7 +52,7 @@ footer {
 	box-sizing: border-box;
 }
 
-a:hover{
+div:hover{
 	border-color: rgb(200,127,150);
 }
 

@@ -52,7 +52,7 @@ footer {
 	box-sizing: border-box;
 }
 
-.class a:hover{
+.col-1 a:hover{
 	border-color: rgb(111,127,150);
 }
 .first{

@@ -20,12 +20,12 @@ img{
 h1 {
   font-family: 'Baskerville', serif;
   font-size: 5em;
-  color: 	#707E79;
+  color: 	#98ACA5;
 }
 
 h2{
   font-size: 2em;
-  color: 	#707E79;
+  color: 	#98ACA5;
 }
 
 .wrapper {
@@ -47,14 +47,14 @@ footer {
   width: 24%;
   float: left;
   border-style: solid;
-  border-color: #C8C8C8;
+  border-color:#98ACA5;
 	border-width: 4px;
   margin: .5%;
 	box-sizing: border-box;
 }
 
 h1:hover{
-	color: 	#686868;
+	color: 	#707E79;
 }
 
 div:hover{

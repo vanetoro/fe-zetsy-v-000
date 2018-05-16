@@ -14,7 +14,7 @@ body {
 	font-family: 'Times New Roman', serif;
 }
 img{
-  width: 100%;
+  /*width: 100%;*/
 	padding: 5px;
 	border-top: solid;
 	border-width: thin;

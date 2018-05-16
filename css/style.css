@@ -37,6 +37,7 @@ h2{
 
 footer {
   align-content: right;
+	float: clear
 }
 /* Write all remaining styles here */
 

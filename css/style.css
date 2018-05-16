@@ -53,6 +53,10 @@ footer {
 	box-sizing: border-box;
 }
 
+h1:hover{
+	color: 	#808080;
+}
+
 div:hover{
 	border-color: 	#808080;
 }

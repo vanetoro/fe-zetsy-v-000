@@ -27,5 +27,6 @@ footer {
 
 .col-1 {
   width: 23%;
+  float: left;
   background: #eee;
 }

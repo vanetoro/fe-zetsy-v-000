@@ -73,3 +73,7 @@ div:hover{
 .last{
 	margin-right: 0px;
 }
+#img_top_border{
+	
+	border-top: 4px solid #98ACA5;
+}

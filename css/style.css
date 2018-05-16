@@ -25,6 +25,7 @@ h1 {
   font-family: 'Baskerville', serif;
   font-size: 5em;
   color: 	#98ACA5;
+	margin-bottom: 0px;
 }
 
 h2{
@@ -73,6 +74,7 @@ div:hover{
 .last{
 	margin-right: 0px;
 }
+
 #img_top_border{
 	padding-top:  8px;
 	border-top: 4px solid #98ACA5;

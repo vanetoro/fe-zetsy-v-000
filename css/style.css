@@ -14,7 +14,7 @@ body {
 	font-family: 'Times New Roman', serif;
 }
 
-img {
+#necklace{
   width: 100%;
 	border-style: solid;
 	border-color:#98ACA5;
@@ -59,9 +59,9 @@ footer {
 	box-sizing: border-box;
 }
 
-/*h1:hover{
+h1:hover{
 	color: 	#707E79;
-}*/
+}
 
 div:hover{
 	border-color: 	#808080;
